@@ -1,8 +1,8 @@
 # What this is
-`Hello, world!` from WearOs example
+`Hello, world!` from WearOS example
 
 # run
-Connect WearOs by ADB
+Connect WearOS by ADB
 
 Install `cargo dinghy` and
 ```bash
